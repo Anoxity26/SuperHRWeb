@@ -73,7 +73,7 @@ const LandingPageTop = ({
               </DialogTrigger>
               <DialogContent className="sm:fixed sm:left-[50%] sm:translate-x-[-50%]">
                 <iframe
-                  src="https://www.loom.com/embed/89305f61365c478b8cb12ed9f1128f44?sid=08848247-5e17-4023-9d2d-81928e20ee93"
+                  src="link"
                   allowFullScreen
                   className="sm:w-[40vw] sm:h-[40vh] max-w-[840px]  max-h-[480px] w-full h-[30vh]"
                 ></iframe>
